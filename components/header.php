@@ -59,7 +59,7 @@
         <br>
         <h5>Email: culrav2k20@gmail.com</h5>
         <h5>Phone: +91-456456465</h5>
-        <a style="text-decoration:underline;line-height:200%;cursor:pointer;" onclick="javascript:invertColors()">Change Theme</a>
+        <!-- <a style="text-decoration:underline;line-height:200%;cursor:pointer;" onclick="javascript:invertColors()">Change Theme</a> -->
       </div>
     </div>
   </div>
